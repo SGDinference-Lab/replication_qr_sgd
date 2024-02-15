@@ -1,0 +1,16 @@
+------------------------ 
+Sample Size =  1000000 
+dim of X    =  10 
+# of rep    =  1 
+------------------------ 
+Replications :  1 
+              Time         Bias
+qr        10.52239 -0.000470050
+sqr.plug        NA           NA
+sqr.boot 287.25574 -0.000336497
+sgd.boot 139.02016 -0.000275418
+sgd.rs     1.27266  0.000074255
+sgd.rs1s   0.58104  0.000074255
+
+ 
+439.665 sec elapsed

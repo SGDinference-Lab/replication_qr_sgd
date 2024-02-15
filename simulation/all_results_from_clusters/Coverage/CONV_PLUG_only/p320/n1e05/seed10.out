@@ -1,0 +1,115 @@
+------------------------ 
+Sample Size =  100000 
+dim of X    =  320 
+# of rep    =  10 
+------------------------ 
+Replications :  1 
+           Time       Bias
+qr           NA         NA
+sqr.plug 382.03 -0.0052097
+sqr.boot     NA         NA
+sgd.boot     NA         NA
+sgd.rs       NA         NA
+sgd.rs1s     NA         NA
+
+ 
+383.675 sec elapsed
+Replications :  2 
+           Time      Bias
+qr           NA        NA
+sqr.plug 382.12 0.0033847
+sqr.boot     NA        NA
+sgd.boot     NA        NA
+sgd.rs       NA        NA
+sgd.rs1s     NA        NA
+
+ 
+383.847 sec elapsed
+Replications :  3 
+           Time      Bias
+qr           NA        NA
+sqr.plug 386.26 -0.002384
+sqr.boot     NA        NA
+sgd.boot     NA        NA
+sgd.rs       NA        NA
+sgd.rs1s     NA        NA
+
+ 
+387.885 sec elapsed
+Replications :  4 
+           Time        Bias
+qr           NA          NA
+sqr.plug 382.81 -0.00082454
+sqr.boot     NA          NA
+sgd.boot     NA          NA
+sgd.rs       NA          NA
+sgd.rs1s     NA          NA
+
+ 
+384.62 sec elapsed
+Replications :  5 
+           Time      Bias
+qr           NA        NA
+sqr.plug 383.83 0.0015985
+sqr.boot     NA        NA
+sgd.boot     NA        NA
+sgd.rs       NA        NA
+sgd.rs1s     NA        NA
+
+ 
+385.455 sec elapsed
+Replications :  6 
+           Time      Bias
+qr           NA        NA
+sqr.plug 430.83 0.0088233
+sqr.boot     NA        NA
+sgd.boot     NA        NA
+sgd.rs       NA        NA
+sgd.rs1s     NA        NA
+
+ 
+432.43 sec elapsed
+Replications :  7 
+           Time     Bias
+qr           NA       NA
+sqr.plug 421.81 0.007852
+sqr.boot     NA       NA
+sgd.boot     NA       NA
+sgd.rs       NA       NA
+sgd.rs1s     NA       NA
+
+ 
+425.78 sec elapsed
+Replications :  8 
+           Time       Bias
+qr           NA         NA
+sqr.plug 419.79 -0.0010476
+sqr.boot     NA         NA
+sgd.boot     NA         NA
+sgd.rs       NA         NA
+sgd.rs1s     NA         NA
+
+ 
+423.364 sec elapsed
+Replications :  9 
+           Time      Bias
+qr           NA        NA
+sqr.plug 420.02 0.0011358
+sqr.boot     NA        NA
+sgd.boot     NA        NA
+sgd.rs       NA        NA
+sgd.rs1s     NA        NA
+
+ 
+423.971 sec elapsed
+Replications :  10 
+           Time      Bias
+qr           NA        NA
+sqr.plug 420.79 0.0058325
+sqr.boot     NA        NA
+sgd.boot     NA        NA
+sgd.rs       NA        NA
+sgd.rs1s     NA        NA
+
+ 
+424.367 sec elapsed

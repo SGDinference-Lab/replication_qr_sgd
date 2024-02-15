@@ -1,0 +1,11 @@
+Loading required package: SparseM
+
+Attaching package: ‘SparseM’
+
+The following object is masked from ‘package:base’:
+
+    backsolve
+
+Error: unexpected ',' in "me,"
+Execution halted
+srun: error: bl12430: task 0: Exited with exit code 1

@@ -1,0 +1,19 @@
+Loading required package: SparseM
+
+Attaching package: ‘SparseM’
+
+The following object is masked from ‘package:base’:
+
+    backsolve
+
+Warning messages:
+1: In summary.rq(fit.qr, se = "nid") : 12 non-positive fis
+2: In summary.rq(fit.qr, se = "nid") : 13 non-positive fis
+3: In summary.rq(fit.qr, se = "nid") : 7 non-positive fis
+4: In summary.rq(fit.qr, se = "nid") : 4 non-positive fis
+5: In summary.rq(fit.qr, se = "nid") : 2 non-positive fis
+6: In summary.rq(fit.qr, se = "nid") : 9 non-positive fis
+7: In summary.rq(fit.qr, se = "nid") : 7 non-positive fis
+8: In summary.rq(fit.qr, se = "nid") : 11 non-positive fis
+9: In summary.rq(fit.qr, se = "nid") : 7 non-positive fis
+10: In summary.rq(fit.qr, se = "nid") : 9 non-positive fis

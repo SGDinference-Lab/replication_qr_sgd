@@ -1,0 +1,115 @@
+------------------------ 
+Sample Size =  100000 
+dim of X    =  80 
+# of rep    =  10 
+------------------------ 
+Replications :  1 
+              Time       Bias
+qr        10.14565 -0.0012323
+sqr.plug        NA         NA
+sqr.boot 141.75909 -0.0016623
+sgd.boot  44.13088 -0.0047676
+sgd.rs     3.99945 -0.0081196
+sgd.rs1s   0.75868 -0.0081196
+
+ 
+202.033 sec elapsed
+Replications :  2 
+              Time       Bias
+qr         9.90799 -0.0033129
+sqr.plug        NA         NA
+sqr.boot 147.36672 -0.0031297
+sgd.boot  49.90095 -0.0122502
+sgd.rs     3.82401 -0.0010388
+sgd.rs1s   0.81926 -0.0010388
+
+ 
+212.427 sec elapsed
+Replications :  3 
+              Time       Bias
+qr         8.53547 -0.0023143
+sqr.plug        NA         NA
+sqr.boot 133.88851 -0.0020797
+sgd.boot  49.87845 -0.0095047
+sgd.rs     3.58512 -0.0056112
+sgd.rs1s   0.85039 -0.0056112
+
+ 
+197.372 sec elapsed
+Replications :  4 
+              Time      Bias
+qr         8.19921 0.0043442
+sqr.plug        NA        NA
+sqr.boot 126.21067 0.0054595
+sgd.boot  41.35643 0.0069127
+sgd.rs     3.57684 0.0045681
+sgd.rs1s   0.85147 0.0045681
+
+ 
+180.802 sec elapsed
+Replications :  5 
+             Time         Bias
+qr        7.86823  0.000040168
+sqr.plug       NA           NA
+sqr.boot 94.30870 -0.000157312
+sgd.boot 41.23936 -0.006035269
+sgd.rs    3.66429 -0.005809641
+sgd.rs1s  0.75079 -0.005809641
+
+ 
+148.438 sec elapsed
+Replications :  6 
+              Time      Bias
+qr         8.41804 0.0044393
+sqr.plug        NA        NA
+sqr.boot 107.66229 0.0039086
+sgd.boot  40.94458 0.0057501
+sgd.rs     3.76048 0.0054147
+sgd.rs1s   0.77766 0.0054147
+
+ 
+162.186 sec elapsed
+Replications :  7 
+            Time        Bias
+qr        8.1862  0.00074909
+sqr.plug      NA          NA
+sqr.boot 97.7389  0.00060320
+sgd.boot 40.9595 -0.00704878
+sgd.rs    3.3771 -0.00226643
+sgd.rs1s  0.7691 -0.00226643
+
+ 
+151.622 sec elapsed
+Replications :  8 
+              Time       Bias
+qr         7.64423 -0.0015507
+sqr.plug        NA         NA
+sqr.boot 105.52240 -0.0017653
+sgd.boot  41.42918 -0.0055147
+sgd.rs     3.53351  0.0010987
+sgd.rs1s   0.77355  0.0010987
+
+ 
+159.514 sec elapsed
+Replications :  9 
+              Time      Bias
+qr         8.45582 0.0059124
+sqr.plug        NA        NA
+sqr.boot 105.49322 0.0057143
+sgd.boot  40.83879 0.0058729
+sgd.rs     3.52696 0.0071777
+sgd.rs1s   0.69492 0.0071777
+
+ 
+159.597 sec elapsed
+Replications :  10 
+             Time      Bias
+qr        7.38214 0.0076006
+sqr.plug       NA        NA
+sqr.boot 94.13962 0.0083433
+sgd.boot 42.45630 0.0014034
+sgd.rs    3.37323 0.0088249
+sgd.rs1s  0.62163 0.0088249
+
+ 
+148.552 sec elapsed

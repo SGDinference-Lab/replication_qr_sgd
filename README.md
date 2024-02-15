@@ -8,7 +8,7 @@ following paper:
 
 - Lee, S., Liao, Y., Seo, M.H. and Shin, Y., 2023. Fast inference for
   quantile regression with tens of millions of observations.
-  Forthecoming in *Journal of Econometrics*
+  Forthcoming in *Journal of Econometrics*
   <https://doi.org/10.1016/j.jeconom.2024.105673>.
 
 ## Applications
@@ -47,7 +47,7 @@ All of these files are also contained in the **data.zip** file.
 
 Four R files are located in the **application/src/** folder:
 
-- **fn_estimate_model.R**: conatins an R function to estimate the model.
+- **fn_estimate_model.R**: contains an R function to estimate the model.
 - **make_table_04.R**: generates Table 4 (summary statistics) in the
   paper.
 - **make_tables_and_charts.R**: generates all other Tables and graphs in
@@ -57,3 +57,12 @@ Four R files are located in the **application/src/** folder:
 All results are saved under the **application/results/** folder
 
 ## Simulations
+
+All simulation results and the example running code is contained in the **simulation** folder. 
+
+- **all_results_from_clusters**: This folder contains all simulation results conducted in the larger cluster system.
+- **example_running_code**: This folder contains running code for a small-scale simulation design. 
+    - The filename is **sim_coverage.R**.
+    - We set $n=10^5$, $p=10$ with 10 replications. 
+    - The simulation results are saved under **simulation/example_running_code/p10/n1e05/**. 
+

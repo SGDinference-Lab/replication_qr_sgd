@@ -1,0 +1,11 @@
+Loading required package: SparseM
+
+Attaching package: ‘SparseM’
+
+The following object is masked from ‘package:base’:
+
+    backsolve
+
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=29481670.0. Some of your processes may have been killed by the cgroup out-of-memory handler.
+srun: error: bc11611: task 0: Out Of Memory
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=29481670.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.

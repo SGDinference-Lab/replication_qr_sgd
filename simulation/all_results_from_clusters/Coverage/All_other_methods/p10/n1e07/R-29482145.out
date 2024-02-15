@@ -1,0 +1,16 @@
+Loading required package: SparseM
+
+Attaching package: ‘SparseM’
+
+The following object is masked from ‘package:base’:
+
+    backsolve
+
+Warning messages:
+1: In rq.fit.pfn(x, y, tau = tau, ...) : Too many fixups:  doubling m
+2: In rq.fit.pfn(x, y, tau = tau, ...) : Too many fixups:  doubling m
+3: In rq.fit.pfn(x, y, tau = tau, ...) : Too many fixups:  doubling m
+4: In rq.fit.pfn(x, y, tau = tau, ...) : Too many fixups:  doubling m
+5: In rq.fit.pfn(x, y, tau = tau, ...) : Too many fixups:  doubling m
+6: In rq.fit.pfn(x, y, tau = tau, ...) : Too many fixups:  doubling m
+7: In rq.fit.pfn(x, y, tau = tau, ...) : Too many fixups:  doubling m

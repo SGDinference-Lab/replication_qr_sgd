@@ -1,0 +1,13 @@
+------------------------ 
+Sample Size =  10000000 
+dim of X    =  80 
+No. Rep.    =  1000 
+Total Time  =  18896 
+------------------------ 
+              Runtime Coverage CI Length   RMSE Bias   Sys
+QR            445.046    0.942    0.0016 0.0004    0 18896
+CONV-PLUG          NA       NA        NA     NA   NA    NA
+CONV-BOOT   12827.277    0.937    0.0015 0.0004    0     0
+SGD-Boot     5214.919    0.951    0.0017 0.0004    0     0
+SGD-RS        342.256    0.952    0.0020 0.0004    0     0
+SGD-RS-SUBS    66.816    0.952    0.0020 0.0004    0     0
