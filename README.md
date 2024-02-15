@@ -8,7 +8,7 @@ following paper:
 
 - Lee, S., Liao, Y., Seo, M.H. and Shin, Y., 2023. Fast inference for
   quantile regression with tens of millions of observations.
-  Forthcoming in *Journal of Econometrics*
+  Forthcoming in *Journal of Econometrics*.
   <https://doi.org/10.1016/j.jeconom.2024.105673>.
 
 ## Applications
